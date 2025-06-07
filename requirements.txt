@@ -1,0 +1,10 @@
+streamlit
+pydantic
+langchain-chroma
+langchain_community
+langchain_huggingface
+sentence-transformers
+langchain_groq
+neo4j
+google-generativeai
+streamlit-extras
